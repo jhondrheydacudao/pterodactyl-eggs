@@ -4,7 +4,7 @@
         "version": "PTDL_v1",
         "update_url": null
     },
-    "name": "node typescript",
+    "name": "typescript",
     "author": "tolfx@tolfix.com",
     "description": "An application for node with typescript",
     "features": null,
